@@ -1,0 +1,11 @@
+# virtual python environment
+env
+
+# jupyter
+*ipynb*
+
+# homework module
+classifiers.py
+
+# cache
+__pycache__
